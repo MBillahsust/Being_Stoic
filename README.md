@@ -1,6 +1,4 @@
-# Being_Stoic
-##
-
+## Being_Stoic
 ## Video Presentation
 [![Project Presentation](https://img.youtube.com/vi/k8VxZiPqgWg/0.jpg)](https://www.youtube.com/watch?v=k8VxZiPqgWg)
 
